@@ -7,7 +7,7 @@ import asyncio
 from role_selection import player_roles
 
 
-TOKEN = "MTEzMTExNjE3ODEzNjM3MTIxMA.GJzmH1.VcIX_TngLPcbgew5S3yKyY49kYOJqUr8Xz7gEA"
+TOKEN = "SECRET"
 
 
 intents = discord.Intents.default()
